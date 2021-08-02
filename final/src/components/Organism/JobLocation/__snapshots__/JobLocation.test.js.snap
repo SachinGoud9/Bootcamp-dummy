@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`jobLocation render correctly should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="topNavigation"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root makeStyles-leftGrid-1 MuiGrid-item"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiStepper-root MuiStepper-horizontal makeStyles-stepperLabel-8 MuiPaper-elevation0"
+          >
+            <div
+              class="MuiStep-root MuiStep-horizontal"
+            >
+              <span
+                class="MuiStepLabel-root MuiStepLabel-horizontal"
+              >
+                <span
+                  class="MuiStepLabel-iconContainer"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <circle
+                      cx="12"
+                      cy="12"
+                      r="12"
+                    />
+                    <text
+                      class="MuiStepIcon-text"
+                      text-anchor="middle"
+                      x="12"
+                      y="16"
+                    >
+                      1
+                    </text>
+                  </svg>
+                </span>
+                <span
+                  class="MuiStepLabel-labelContainer"
+                >
+                  <span
+                    class="MuiTypography-root MuiStepLabel-label MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-overline"
+                    >
+                      Your Location
+                    </span>
+                  </span>
+                </span>
+              </span>
+            </div>
+            <div
+              class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+            >
+              <span
+                class="MuiStepConnector-line WithStyles(ForwardRef(StepConnector))-line-11 MuiStepConnector-lineHorizontal"
+              />
+            </div>
+            <div
+              class="MuiStep-root MuiStep-horizontal"
+            >
+              <span
+                class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+              >
+                <span
+                  class="MuiStepLabel-iconContainer"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiStepIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <circle
+                      cx="12"
+                      cy="12"
+                      r="12"
+                    />
+                    <text
+                      class="MuiStepIcon-text"
+                      text-anchor="middle"
+                      x="12"
+                      y="16"
+                    >
+                      2
+                    </text>
+                  </svg>
+                </span>
+                <span
+                  class="MuiStepLabel-labelContainer"
+                >
+                  <span
+                    class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-overline"
+                    >
+                      Job Location
+                    </span>
+                  </span>
+                </span>
+              </span>
+            </div>
+            <div
+              class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled"
+            >
+              <span
+                class="MuiStepConnector-line WithStyles(ForwardRef(StepConnector))-line-11 MuiStepConnector-lineHorizontal"
+              />
+            </div>
+            <div
+              class="MuiStep-root MuiStep-horizontal"
+            >
+              <span
+                class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled"
+              >
+                <span
+                  class="MuiStepLabel-iconContainer"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiStepIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <circle
+                      cx="12"
+                      cy="12"
+                      r="12"
+                    />
+                    <text
+                      class="MuiStepIcon-text"
+                      text-anchor="middle"
+                      x="12"
+                      y="16"
+                    >
+                      3
+                    </text>
+                  </svg>
+                </span>
+                <span
+                  class="MuiStepLabel-labelContainer"
+                >
+                  <span
+                    class="MuiTypography-root MuiStepLabel-label MuiTypography-body2 MuiTypography-displayBlock"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-overline"
+                    >
+                      Your Skills
+                    </span>
+                  </span>
+                </span>
+              </span>
+            </div>
+          </div>
+          <hr
+            class="MuiDivider-root MuiDivider-light"
+          />
+          <div>
+            <div>
+              <div>
+                <div
+                  aria-expanded="false"
+                  role="combobox"
+                >
+                  <div>
+                    <p
+                      class="MuiTypography-root-17 makeStyles-title-15 MuiTypography-body1-19"
+                    >
+                      More than 2000 people are using Green Commute
+                    </p>
+                  </div>
+                  <div
+                    class="makeStyles-subtitle-16"
+                  >
+                    <p
+                      class="MuiTypography-root-17 MuiTypography-body1-19"
+                    >
+                       Where do you stay?
+                    </p>
+                  </div>
+                  <div
+                    class="sc-iCoGMd ffxOMf"
+                  >
+                    <div
+                      class="makeStyles-header-12"
+                    >
+                      <img
+                        height="24px"
+                        src="https://cdn.zeplin.io/5fa28fcbff79c58958e4e1a6/assets/1cf5595f-c291-4826-a6b4-1590090a90ff.svg"
+                        width="24px"
+                      />
+                    </div>
+                    <input
+                      aria-autocomplete="list"
+                      autocapitalize="none"
+                      autocomplete="off"
+                      id="customized-hook-demo"
+                      spellcheck="false"
+                      value=""
+                    />
+                  </div>
+                </div>
+                <div />
+              </div>
+            </div>
+            <div>
+              <div>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-4 MuiButton-containedPrimary"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    Next
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
