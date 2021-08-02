@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627910293757" clover="3.2.0">
-  <project timestamp="1627910293758" name="All files">
-    <metrics statements="414" coveredstatements="145" conditionals="75" coveredconditionals="38" methods="162" coveredmethods="44" elements="651" coveredelements="227" complexity="0" loc="414" ncloc="414" packages="35" files="74" classes="74"/>
+<coverage generated="1627924672220" clover="3.2.0">
+  <project timestamp="1627924672220" name="All files">
+    <metrics statements="415" coveredstatements="142" conditionals="75" coveredconditionals="38" methods="162" coveredmethods="43" elements="652" coveredelements="223" complexity="0" loc="415" ncloc="415" packages="35" files="74" classes="74"/>
     <package name="src">
       <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
       <file name="App.js" path="/home/saching/Desktop/Bootcamp-21-Green-Commute-testing/final/src/App.js">
@@ -25,7 +25,7 @@
       </file>
       <file name="theme.jsx" path="/home/saching/Desktop/Bootcamp-21-Green-Commute-testing/final/src/components/theme.jsx">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="3" count="21" type="stmt"/>
+        <line num="3" count="20" type="stmt"/>
       </file>
     </package>
     <package name="src.components.Organism.JobLocation">
@@ -220,12 +220,13 @@
       </file>
     </package>
     <package name="src.components.atoms.button">
-      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
       <file name="CustomButton.js" path="/home/saching/Desktop/Bootcamp-21-Green-Commute-testing/final/src/components/atoms/button/CustomButton.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
       </file>
       <file name="CustomButton.stories.js" path="/home/saching/Desktop/Bootcamp-21-Green-Commute-testing/final/src/components/atoms/button/CustomButton.stories.js">
         <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
