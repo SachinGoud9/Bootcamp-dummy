@@ -17,7 +17,7 @@ const Mybutton = ({variant,text,color,onClick}) => {
 };
 
 Mybutton.propTypes = {
-  variant: PropTypes.oneOf("contained","outlined")
+  variant: PropTypes.oneOf("contained","outlined","standard")
 }
 
 export default Mybutton;
