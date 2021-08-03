@@ -29,10 +29,10 @@ import Checkbox from "@material-ui/core/Checkbox";
           }
         }
       },
-     checked :{},
+      checked :{},
       onChange :{},
       name :{},
-
+     
   
 })(Checkbox);
 export default CheckboxWithGreenCheck;

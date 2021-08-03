@@ -22,6 +22,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3",
     "react-select": "^4.3.1",
+    "sinon": "^11.1.2",
     "styled-components": "^5.3.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "yup": "^0.32.9"
@@ -37,10 +38,12 @@
     "@storybook/addon-links": "^6.3.0",
     "@storybook/react": "^6.3.0",
     "@testing-library/react": "^12.0.0",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.3",
     "babel-loader": "^8.2.2",
     "babel-plugin-transform-runtime": "^6.23.0",
     "css-loader": "^5.2.5",
     "dotenv-webpack": "^7.0.3",
+    "enzyme": "^3.11.0",
     "eslint": "^7.29.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-zemoso": "^1.0.3",
@@ -58,12 +61,6 @@
     "webpack": "^5.40.0",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
-  },
-  "react-scripts": {
-    "collectCoverageFrom": [
-      "!src/**/**/**/.{stories, test}.{js}",
-      "src/**/**/**/.{js}"
-    ]
   },
   "scripts": {
     "serve": "webpack serve --mode development",
